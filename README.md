@@ -6,4 +6,4 @@ Setup instructions:
 2.  Install mecrisp-sterallis for the BBC:microbit onto the nRF52840-DK by dragging the hex file onto the nRF52840-DK's virtual drive.
 3.  Open a terminal to the nRF52840-DK, using baudrate 115200.
 4.  Upload the file in this repository.
-5.  Done!  The change will be automatically done every time the nRF52840-DK is rebooted.  You no longer need the jumper wires, and the nRF52840-DK will now use the proper pins for communicating over its usb interface.  
+5.  Done!  The change will be automatically made every time the nRF52840-DK is rebooted.  You no longer need the jumper wires, and the nRF52840-DK will now use the proper pins for communicating over its usb interface.  
