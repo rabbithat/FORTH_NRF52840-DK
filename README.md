@@ -9,3 +9,5 @@ Setup instructions:
 3.  Open a terminal to the nRF52840-DK, using baudrate 115200.
 4.  Upload the file in this repository.
 5.  Done!  The change will now be  made automatically every time the nRF52840-DK is rebooted.  You no longer need the jumper wires, and the nRF52840-DK will now use the proper pins for communicating over its usb interface.  
+
+Update 2018-12-11: Use the code located here: https://github.com/rabbithat/nRF52840_enable_reset_pin to enable the reset button on the nRF52840-DK.
